@@ -5560,5 +5560,29 @@
 ||www.kuaiduizuoye.com^$important
 ||dm.wo.com.cn^$important
 ||orange-dc.alibaba.com^$important
+||mmbiz.qpic.cn^$important
+||adx.zuoyebang.com^$important
+||sanxia.zybang.com^$important
+||pluto.zuoyebang.com^$important
+||apivip.kuaiduizuoye.com^$important
+@@||github.com^$important
+||adx.halomobi.com^$important
+||bridgeads.massx.com^$important
+||bd-cdn.halomobi.com^$important
+||fengchao-api.mgp.mi.com^$important
+||report2.dhsz.cn^$important
+||report.bjzghd.com^$important
+||ads-tracker.yourongsj.com^$important
+||www.zybang.com^$important
+||firebaseinstallations.googleapis.com^$important
+||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
+||content-understand-strategy.sm.cn^$important
+||impdsp.meituan.com^$important
+||safebrowsing.googleapis.com^$important
+||s3plus.meituan.net^$important
+||f1df2695-dnsotls-ds.metric.gstatic.com^$important
+||tam.cdn-go.cn^$important
+||kd-book.cdnjtzy.com^$important
+||api.sm.cn^$important
 
 
