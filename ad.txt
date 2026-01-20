@@ -60,7 +60,6 @@
 ||mall.bilibili.com^$important
 ||c.viayoo.com^$important
 ||youhou8.com^$important
-||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
 ||activity.hdslb.com^$important
 ||i0.hdslb.com^$important
 ||adtrack.uc.cn^$important
@@ -120,7 +119,6 @@
 ||ws-livemate.pull.yximgs.com^$important
 ||audid-api.taobao.com^$important
 ||pssn.alicdn.com^$important
-||im-x.jd.com^$important
 ||h-adashx.ut.taobao.com^$important
 ||wn.pos.baidu.com^$important
 ||m.baidu.com^$important
@@ -137,7 +135,6 @@
 ||qh-material.taobao.com^$important
 ||wcp.taobao.com^$important
 ||mobads-logs.baidu.com^$important
-||mobads.baidu.com^$important
 ||open.e.kuaishou.cn^$important
 @@||ocean.shuqireader.com^$important
 ||usr-api.aiclk.com^$important
@@ -155,8 +152,6 @@
 ||appsec-mobile.meituan.com^$important
 ||sg.pool.ntp.org^$important
 ||t3.a.market.xiaomi.com^$important
-||api-access.pangolin-sdk-toutiao1.com^$important
-||et.tanx.com^$important
 ||yes-file.quark.cn^$important
 ||puds-down.uc.cn^$important
 ||bd-rwk.pull.etoote.com^$important
@@ -180,7 +175,6 @@
 ||content-open.douyin.com^$important
 ||mssdk.doubao.com^$important
 ||jsb.snssdk.com^$important
-||api.ad.xiaomi.com^$important
 ||sdk-log.partner.sm.cn
 ||59.82.96.59
 ||puds.ucweb.com
@@ -268,7 +262,6 @@
 @@||app-advertise.zhihuishu.com^
 @@||cn.bing.com^$important
 #结束#
-#*******************************************************************************************************#
 
 ! 引用 作者：番茄酱
 ! Description: 重构番茄3.0，适配最新6.9.1.32
@@ -320,7 +313,6 @@
 ||coolapk.com/v6/feed/detail?$replace=/include_goods//
 !去除评论区下某广告
 ||coolapk.com/v6/feed/detail?$replace=/detailSponsorCard//
-#*******************************************************************************************************#
 
 #不良网页拦截#
 #借鉴内容拦截--测试20251219
@@ -4822,14 +4814,8 @@
 ||podc.thx1458ho2.cc^$important
 ||shuiguo.svip.ggvcxxt.com^$important
 ||mhxtjcss02.evyiha.cn^$important
-||hxt.mgtv2026.com^$important
-||matomo.ggvcxxt.com^$important
 ||mhxvmjsr.evyiha.cn^$important
-||webrtc.mgtv2024.com^$important
 ||e7366.dscb.akamaiedge.net^$important
-||m2vv7.top^$important
-||img53host.gt62.top^$important
-||assets85cdn.gt62.top^$important
 ||r9sdfp299.vip^$important
 ||16za4t1.yunzhouguodian.com^$important
 ##20251124更新↓
@@ -4862,8 +4848,6 @@
 ||sa1su7.vip^$important
 ||5.p3931p.cc^$important
 ||static-pp.wjyj02.com^$important
-||txmov2.a.kwimgs.com^$important
-||res-pp.wjyj02.com^$important
 ||9.31xx4951f.cc^$important
 ||lbvmnh.icu^$important
 ||static-31.wjyj02.com^$important
@@ -4895,7 +4879,6 @@
 ||bthuop.xn--jduz70i73d.com^$important
 ||www.qloxy-35839.cc^$important
 ||djqv8ngllpa78.cloudfront.net^$important
-||kegymmtv.jixingcdn.com^$important
 ||666bb777yy.com^$important
 ||yanxuan.nosdn.127.net^$important
 ||www.hjg30.cc^$important
@@ -4923,7 +4906,6 @@
 ||htps.kmcdn.cn^$important
 ||p2.kmcdn.cn^$important
 ||6fhktszi.sched.vodtylego.tdnsvod1.cn^$important
-||warm-p1.sched.vodtylego.tdnsvod1.cn^$important
 ||tue25.xjx11251ts.com^$important
 ||b8pzgivd.sched.vodtylego-dk.tdnsvod1.cn^$important
 ||28670.net^$important
@@ -4964,7 +4946,6 @@
 ||vp.acdsa811.cn^$important
 ||1.hlg4641f.cc^$important
 ||dcofwovr.cache-hlg.11cdn.cc^$important
-||static-hlg928.wtycms.com^$important
 ||9z0zla65.slt-dk.sched.tdnsv8.com^$important
 ||25c50a0010b8adef0xg.w0uu56.com^$important
 ||pic81hub.gt62.top^$important
@@ -4995,10 +4976,8 @@
 ||27c50a0010b8adef0xc.rc0jel.com^$important
 ||2.xiu3796f.cc^$important
 ||pohyjbnv.cache-xxtv.11cdn.cc^$important
-||static-xx.99aries.com^$important
 ||2719104fd797b2d2axc.rc0jel.com^$important
 ||qk5sv272.vip^$important
-||xxtv.eqsma.com^$important
 ||e0ik.yinghua-t1362.cc^$important
 ||yinghua.dhgsqjcnj.com^$important
 ||stats.51tongji.cc^$important
@@ -5007,7 +4986,6 @@
 ||hit3.tppun9.cn^$important
 ||etsporaoi.ztxw10.cn^$important
 ||etsporaoi.ztxw10.cn.gccdn.net^$important
-||stun.hitv.com^$important
 ||wdyl361.vip^$important
 ||qn5ym270.vip^$important
 ||mdfgds-poper.n63686q7isfe.com^$important
@@ -5087,7 +5065,6 @@
 ||yes.83560333.top^$important
 ||web-aws.szzmxh.com^$important
 ||1.hlg5772f.cc^$important
-||wzwimu6d.cache-hlg.11cdn.cc^$important
 ||ggftwkrspm7.com^$important
 #20251210更新
 ||hz300.tuuyfqr.cn.eo.dnse4.com^$important
@@ -5109,9 +5086,6 @@
 ||fmwnbkiaev9.com^$important
 ||hcdnw102.sme.cdnhwcibv122.com^$important
 ||1.hlg5902f.cc^$important
-||static-hlg928.wtycms.com^$important
-||wzwimu6d.cache-hlg.11cdn.cc^$important
-||txmov2.a.kwimgs.com^$important
 ||ty-txmov2.sched.vip-dk.tdnsvod1.cn^$important
 ||hlg.eqsma.com^$important
 ||tu1.iqmysy.cn^$important
@@ -5123,18 +5097,10 @@
 ||www.hjg98.cc^$important
 ||ugc.hitv.com^$important
 ||cct95005.top^$important
-||kegymmtv.jixingcdn.com^$important
-||warm-p1.sched.vodtylego.tdnsvod1.cn^$important
 ||hj.kmcdn.cn^$important
 ||vs1mm367.vip^$important
 ||d251pr8q5v92gc.cloudfront.net^$important
-||img53host.gt62.top^$important
-||m2vv7.top^$important
-||res-pp.wjyj02.com^$important
 ||mdfg2a5g.res-m3u8.v5glb.com^$important
-||webrtc.mgtv2024.com^$important
-||hxt.mgtv2026.com^$important
-||matomo.ggvcxxt.com^$important
 ||ambm.thx194995g.cc^$important
 ||75nhtt3w.sched.vodtylego-dk.tdnsvod1.cn^$important
 ||cccdsfs.mt6pu515vhdg.com^$important
@@ -5145,7 +5111,6 @@
 ||17653753690006885mc.csby6p.com^$important
 ||7.52gao3953f.cc^$important
 ||static-52.99aries.com^$important
-||assets85cdn.gt62.top^$important
 ||www.uxcww506.vip^$important
 ||u.guojvxiaoshijiang.com^$important
 ||apidata1.an98.top^$important
@@ -5154,8 +5119,6 @@
 ||f95j.tbl455063u.cc^$important
 ||hp.agency23.top^$important
 ||3.xiu4703f.cc^$important
-||static-xx.99aries.com^$important
-||xxtv.eqsma.com^$important
 ||vahu5x46.res-m3u8.v5glb.com^$important
 ||warm-p2.sched.vodtylego-dk.tdnsvod1.cn^$important
 ||happy-data.net^$important
@@ -5169,7 +5132,6 @@
 ||img2.tuifei630.cn^$important
 ||hit9.tppun9.cn^$important
 ||img4.tuifei630.cn^$important
-||stun.hitv.com^$important
 ||hit4.tppun9.cn^$important
 ||hit10.tppun9.cn^$important
 ||img5.tuifei630.cn^$important
@@ -5469,35 +5431,10 @@
 ||bdzp3hu3.sched.vodtylego.tdnsvod1.cn^$important
 ||tue30.ainb12301zh.com^$important
 ||avtaohua.phragmspecificie.com^$important
-||kihsf5dg.tsfenghui.com^$important
-||pc.sysbbs.com^$important
-||goave.oeana.xyz^$important
-||www.ouan.xyz^$important
-||fromage.bauskz.cn^$important
-||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
-||api.ad.xiaomi.com^$important
-||vip-91.cdn-vipvideo.com^$important
-||lsbsbs.91w069dbba443d.cc^$important
-||sexs.298369.app^$important
-||kihsf5dg.tsfenghui.com^$important
-||pc.sysbbs.com^$important
-||goave.oeana.xyz^$important
-||www.ouan.xyz^$important
-||fromage.bauskz.cn^$important
-||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
-||api.ad.xiaomi.com^$important
-||vip-91.cdn-vipvideo.com^$important
-||lsbsbs.91w069dbba443d.cc^$important
-||sexs.298369.app^$important
-||et.tanx.com^$important
 ||adashx.ut.uc.cn^$important
-||api-access.pangolin-sdk-toutiao1.com^$important
 ||`im-x.jd.com`
-||sdk.e.qq.com^$important
-||adx.zuoyebang.com^$important
 ||www.duokan.com^$important
 ||zyb-stats.zuoyebang.cc^$important
-||sanxia.zybang.com^$important
 ||ocr.kuaiduizuoye.com^$important
 ||zpm.zuoyebang.com^$important
 ||zyb-stats-1.zuoyebang.cc^$important
@@ -5508,7 +5445,6 @@
 ||volc-track-dsp.66mobi.com^$important
 ||static.66mobi.com^$important
 ||zyb-stats-2.zuoyebang.cc^$important
-||pluto.zuoyebang.com^$important
 ||kd-upload.cdnjtzy.com^$important
 ||sanxia-platform-1.cdnjtzy.com^$important
 ||quickai-1.cdnjtzy.com^$important
@@ -5524,7 +5460,6 @@
 ||static-1.kuaiduizuoye.com^$important
 ||sanxia-platform-2.cdnjtzy.com^$important
 ||kd-upload-1.cdnjtzy.com^$important
-||apivip.kuaiduizuoye.com^$important
 ||abtest.zuoyebang.com^$important
 ||jiazhang.zuoyebang.com^$important
 ||resourceserver.zybang.com^$important
@@ -5534,8 +5469,6 @@
 ||gtactivity.zuoyebang.com^$important
 ||nlogtf.zuoyebang.com^$important
 ||adx.zuoyebang.com
-||httpdns.zybang.com
-||c.kuaiduizuoye.com
 ||zyb-jiazhang.cdnjtzy.com
 ||`api-access.pangolin-sdk-toutiao1.com`
 ||ugapi.alipay.com^$important
@@ -5561,10 +5494,6 @@
 ||dm.wo.com.cn^$important
 ||orange-dc.alibaba.com^$important
 ||mmbiz.qpic.cn^$important
-||adx.zuoyebang.com^$important
-||sanxia.zybang.com^$important
-||pluto.zuoyebang.com^$important
-||apivip.kuaiduizuoye.com^$important
 @@||github.com^$important
 ||adx.halomobi.com^$important
 ||bridgeads.massx.com^$important
@@ -5575,7 +5504,6 @@
 ||ads-tracker.yourongsj.com^$important
 ||www.zybang.com^$important
 ||firebaseinstallations.googleapis.com^$important
-||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
 ||content-understand-strategy.sm.cn^$important
 ||impdsp.meituan.com^$important
 ||safebrowsing.googleapis.com^$important
@@ -5584,5 +5512,38 @@
 ||tam.cdn-go.cn^$important
 ||kd-book.cdnjtzy.com^$important
 ||api.sm.cn^$important
+||c3.gdt.qq.com^$important
+||v3.gdt.qq.com^$important
+||techain.baidu.com^$important
+||9520117f-dnsotls-ds.metric.gstatic.com^$important
+||www.baidu.com^$important
+||zyb-stats-1.zuoyebang.cc
+||nlogtf.zuoyebang.com
+||log.kuaiduizuoye.com
+||api.io.mi.com^$important
+||alt3-mtalk.google.com^$important
+||alt6-mtalk.google.com^$important
+||pluto.zuoyebang.com
+||10.215.173.1
+||bd-livemate.pull.yximgs.com^$important
+@@||*.hdslb.com^$important
+||jsb.zijieapi.com^$important
+||hw.flv.wxqcloud.qq.com^$important
+||t.in-neo.cn^$important
+||*.bilistatic.cn^$important
+||broadcast.chat.bilibili.com^$important
+||upos-sz-mirrorcos.bilivideo.com^$important
+||hw-edge.solseed.cn^$important
+||api-vc.bilibili.cn^$important
+||api.live.bilibili.com^$important
+@@||cm.bilibili.com^$important
+@@||passport.bilibili.com^$important
+@@||sentry.d.xiaomi.net^$important
+@@||szextshort.weixin.qq.com^$important
+@@||wxa.wxs.qq.com^$important
+@@||wximg.wxs.qq.com^$important
+@@||mmbiz.qpic.cn^$important
+||api-live-bo.biliapi.net^$important
+||api-live-bo.biliapi.com^$important
 
 
